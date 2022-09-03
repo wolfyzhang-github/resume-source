@@ -1,0 +1,39 @@
+title: 张国辉 | Gh Zhang
+fonts-en-serif: fonts-zh-serif
+Birthday: 生日
+Personal Blog: 个人博客
+Education: 教育经历
+Experience: 实践经历
+University of Jinan: 济南大学
+University of Jinan's Student Work Office: 济南大学学工在线
+Sept. 2019 - June 2022: 2019 年 9 月 - 2022 年 6 月
+Sept. 2019 - June 2023: 2019 年 9 月 - 2023 年 6 月
+Microsoft Learn Student Ambassador: 微软学生大使
+Oct. 2021 - Present: 2021 年 10 月至今
+Bachelor of Electronic Information Science &amp; Technology: 电子信息科学与技术专业工学学士学位
+Projects: 主要项目
+Yie: Yie
+Aug 11, 2022 - Aug 21, 2022: 2022 年 8 月 - 2022 年 8 月
+"Yie is a Y86-64 ISA emulator that visualizes the state of machine register and memory operations during Y86-64 bytecode program execution in terms of instruction execution cycles. It is a set of toolchain that I implemented for the Y86-64 SEQ CPU design, and I completed it in about a week.": Yie 是一个 Y86-64 指令集仿真器，可以以指令执行周期为单位直观输出 Y86-64 字节码程序执行过程中机器寄存器和内存的操作状态。它是我为 Y86-64 SEQ CPU 设计而实现的一套工具链，我在一周左右的时间里完成了它。
+Study of visualization methods for instruction pipeline execution: 指令流水线执行可视化方法研究
+Sept. 2021 - Present: 2021 年 9 月至今
+Network Operator: 网络操作者
+"My co-workers and I have built a visualization system for instruction pipeline execution with a web front-end, which is very initial and does not support complex functions, and is left to be upgraded. This project is a successful project of University of Jinan student research project in 2021.": 我和合作者构建了一套以 Web 前端为载体的指令流水线执行可视化系统，该系统目前十分初始，不支持复杂功能，留待后续升级。此项目是 2021 年济南大学学生科研立项成功结题项目。
+Mask wearing recognition detection: 口罩佩戴识别检测
+Sept. 2020 - Jun. 2021: 2020 年 9 月 - 2021 年 6 月
+Core Contributor: 核心开发者
+"My collaborators and I have built a Caffe based mask wearing recognition detection system with Flask as the video push streaming engine and OpenCV for image processing. This project is the successful conclusion of the student research project of Jinan University in 2020, and obtained one software copyright.": 我和合作者构建了一套基于 Caffe 的口罩佩戴识别检测系统，以 Flask 作为视频推流引擎，OpenCV 进行图像处理。此项目是 2020 年济南大学学生科研立项成功结题项目，获得软件著作权一项。
+Nov. 2021 - Aug. 2022: 2021 年 11 月 - 2022 年 8 月
+Developer: 开发者
+"OLED is used to monitor the operating status of the Raspberry Pi 4B, Python calls the system API to obtain data and adds a fan to aid in heat dissipation. the Python script exists as a Systemd Service.": 用 OLED 监视树莓派 4B 的运行状态，Python 调用系统 API 获取数据，并添加风扇了辅助散热。Python 脚本以 Systemd Service 形式存在。
+Judges online scoring: 评委在线评分
+"My collaborator and I built an online scoring system for judges' scoring in school-level events. Judges scan a QR code with accountable parameters to enter the system and then score the scores, and automatically generate performance data such as contestant rankings at the end. This project has been polished over two years and four major events, and is now relatively complete.": 我和合作者共同构建了一套供校级活动中评委评分使用的在线评分系统，评委通过扫描带有账密参数的二维码进入系统后进行评分，结束后自动产生选手排名等成绩数据。此项目经历了两年四次大型活动的打磨，目前较为完善。
+Officer, Ministers, Station Manager: 干事、部长、站长
+"I worked with my collaborators to maintain a cloud server running several services in the Office of Academic Affairs and provided computer technical support for some of the large events in the Office of Academic Affairs, including building a material upload system and an online scoring system. Also, I had team building and project communication experience in the organization.": 我和合作者共同维护学工处的一台运行有数个服务的云服务器，并为学工处的一些大型活动提供计算机技术支持，包括构建材料上传系统和在线打分系统等。同时，在组织中我也有了团队建设和项目沟通经历。
+"As a Microsoft Learn Student Ambassador, I presented a campus event titled Exploring the AI Capabilities of Azure.": 我作为微软学生大使主讲了一场以"探索Azure的AI能力"为主题的校园活动。
+Skill: 技能
+Human language: 自然语言
+Mandarin / Chinese <i>(first language)</i>: 普通话 / 中文<i>（母语）</i>
+English <i>(2009)</i>: 英语 <i>(2009)</i>
+Programming language: 编程语言
+Others are omitted in print version.: 其他内容在打印版中省略。

@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<title i18n-key="title">Gh Zhang | 张国辉</title>
+		<link rel="stylesheet" href="./assets/fonts.css" charset="utf-8">
+		<link rel="stylesheet" href="./assets/hp.soha.css" charset="utf-8">
+		<style type="text/css">h0 { display: none; }</style>
+	</head>
+	<body i18n-class="fonts-en-serif">
+		<div class="container">
+			<div class="side">
+				<img class="avatar" src="./assets/avatar.jpg" />
+				<div>
+					<h0>zgh ❤ lcr | I miss you soooooooooo much. TAT 还能和你继续写故事吗？</h0>
+					<h1 i18n-if="en" class="name fonts-en-serif" title="or Gh Zhang">Gh Zhang</h1>
+					<h1 i18n-if="zh" class="name fonts-zh-serif">张国辉</h1>
+					<b i18n-if="en" class="name-alt fonts-zh-serif">张国辉</b>
+					<b i18n-if="zh" class="name-alt fonts-en-serif" title="或 Gh Zhang">Gh Zhang</b>
+				</div>
+				<div class="contacts fonts-en-sans">
+					<span i18n-title="Birthday">
+						<i class="fas fa-birthday-cake"></i>
+						<span i18n-if="en">Sept. 2000</span>
+						<span i18n-if="zh">2000-09</span>
+					</span>
+					<span title="E-Mail">
+						<i class="fas fa-envelope"></i>
+						<a href="mailto://i@wolfyzhang.com">i@wolfyzhang.com</a>
+					</span>
+					<span title="GitHub">
+						<i class="fab fa-github"></i>
+						<a href="https://github.com/wolfyzhang-github">wolfyzhang-github</a>
+					</span>
+					<span class="show-on-print">
+						<i class="fas fa-home"></i>
+						<a i18n-if="en" href="https://wolfyzhang.com/en">wolfyzhang.com/en</a>
+						<a i18n-if="zh" href="https://wolfyzhang.com">wolfyzhang.com</a>
+					</span>
+					<span i18n-title="Personal Blog" class="hide-on-print">
+						<i class="fas fa-home"></i>
+						<a href="https://blog.wolfyzhang.com">blog.wolfyzhang.com</a>
+					</span>
+					<span title="Telegram" class="hide-on-print">
+						<i class="fab fa-telegram"></i>
+						<a href="https://t.me/pepercussion">pepercussion</a>
+					</span>
+					<span title="Twitter" class="hide-on-print">
+						<i class="fab fa-twitter"></i>
+						<a href="https://twitter.com/wolfyzhang">@wolfyzhang</a>
+					</span>
+					<!--
+					<span title="Fanfou" class="hide-on-print">
+						<i class="fas fa-soup"></i>
+						<a href="https://fanfou.com/wolfyzhang">@wolfyzhang</a>
+					</span>
+					<span title="Zhihu" class="hide-on-print">
+						<i class="fa fa-zhihu"></i>
+						<a href="https://www.zhihu.com/people/wolfy-12">wolfyzhang</a>
+					</span>
+					-->
+				</div>
+				<!--
+				<div class="more-link">
+					<a i18n-if="en" href="https://wolfyzhang.com" class="fonts-zh-serif">中文</a>
+					<a i18n-if="zh" href="https://wolfyzhang.com/en" class="fonts-en-serif">English</a>
+				</div>
+				-->
+			</div>
+			<div class="main">
+				<h2 i18n>Projects</h2>
+
+				<dl>
+					<dt>
+						<span i18n>Yie</span>
+						<small i18n class="pull-right">Aug 11, 2022 - Aug 21, 2022</small>
+					</dt>
+					<dd>
+						<span i18n>Developer</span>
+						<small class="pull-right"><a href="https://github.com/wolfyzhang-github/Brat">https://github.com/wolfyzhang-github/Brat</a></small>
+					</dd>
+					<dd></dd>
+					<dd i18n>Yie is a Y86-64 ISA emulator that visualizes the state of machine register and memory operations during Y86-64 bytecode program execution in terms of instruction execution cycles. It is a set of toolchain that I implemented for the Y86-64 SEQ CPU design, and I completed it in about a week.</dd>
+					
+					<dt>
+						<span i18n>Study of visualization methods for instruction pipeline execution</span>
+						<small i18n class="pull-right">Sept. 2021 - Present</small>
+					</dt>
+					<dd i18n>Core Contributor</dd>
+					<dd i18n>My co-workers and I have built a visualization system for instruction pipeline execution with a web front-end, which is very initial and does not support complex functions, and is left to be upgraded. This project is a successful project of University of Jinan student research project in 2021.</dd>
+					
+					<dt>
+						<span i18n>Mask wearing recognition detection</span>
+						<small i18n class="pull-right">Sept. 2020 - Jun. 2021</small>
+					</dt>
+					<dd>
+						<span i18n>Core Contributor</span>
+						<small class="pull-right"><a href="https://github.com/wolfyzhang-github/mask-recognition">https://github.com/wolfyzhang-github/mask-recognition</a></small>
+					</dd>
+					<dd i18n>My collaborators and I have built a Caffe based mask wearing recognition detection system with Flask as the video push streaming engine and OpenCV for image processing. This project is the successful conclusion of the student research project of Jinan University in 2020, and obtained one software copyright.</dd>
+
+					<dt>
+						<span>Raspico</span>
+						<small i18n class="pull-right">Nov. 2021 - Aug. 2022</small>
+					</dt>
+					<dd>
+						<span i18n>Developer</span>
+						<small class="pull-right"><a href="https://github.com/wolfyzhang-github/Raspico">https://github.com/wolfyzhang-github/Raspico</a></small>
+					</dd>
+					<dd i18n>OLED is used to monitor the operating status of the Raspberry Pi 4B, Python calls the system API to obtain data and adds a fan to aid in heat dissipation. the Python script exists as a Systemd Service.</dd>
+					
+					<dt>
+						<span i18n>Judges online scoring</span>
+						<small i18n class="pull-right">Dec. 2020 - Jun. 2022</small>
+					</dt>
+					<dd>
+						<span i18n>Core Contributor</span>
+					</dd>
+					<dd i18n>My collaborator and I built an online scoring system for judges' scoring in school-level events. Judges scan a QR code with accountable parameters to enter the system and then score the scores, and automatically generate performance data such as contestant rankings at the end. This project has been polished over two years and four major events, and is now relatively complete.</dd>
+				</dl>
+
+				<h2 i18n>Education</h2>
+				<dl>
+					<dt>
+						<span i18n>University of Jinan</span>
+						<small i18n class="pull-right">Sept. 2019 - June 2023</small>
+					</dt>
+					<dd></dd>
+					<dd i18n>Bachelor of Electronic Information Science &amp; Technology</dd>
+				</dl>
+
+				<h2 i18n>Experience</h2>
+				<dl>
+					<dt>
+						<span i18n>University of Jinan's Student Work Office</span>
+						<small i18n class="pull-right">Sept. 2019 - June 2022</small>
+					</dt>
+					<dd>
+						<span i18n>Officer, Ministers, Station Manager</span>
+					</dd>
+					<dd i18n>I worked with my collaborators to maintain a cloud server running several services in the Office of Academic Affairs and provided computer technical support for some of the large events in the Office of Academic Affairs, including building a material upload system and an online scoring system. Also, I had team building and project communication experience in the organization.</dd>
+
+					<dt>
+						<span i18n>Microsoft Learn Student Ambassador</span>
+						<small i18n class="pull-right">Oct. 2021 - Present</small>
+					</dt>
+					<dd>
+						<span i18n>Beta</span>
+					</dd>
+					<dd i18n>As a Microsoft Learn Student Ambassador, I presented a campus event titled Exploring the AI Capabilities of Azure.</dd>
+				</dl>
+
+				<h2 i18n>Skill</h2>
+				<dl>
+					<dt i18n>Human language</dt>
+					<dd></dd>
+					<dd>
+						<ul>
+							<li i18n>Mandarin / Chinese <i>(first language)</i></li>
+							<li i18n>English <i>(2009)</i></li>
+						</ul>
+					</dd>
+					
+					<dt i18n>Programming language</dt>
+					<dd></dd>
+					<dd>
+						<ul>
+							<li>C/C++<i>(2014)</i></li>
+							<li>Python 3<i>(2016)</i></li>
+							<li>JavaScript <i>(2019)</i></li>
+							<li>PHP <i>(2019)</i></li>
+							<li>Rust <i>(2021)</i></li>
+							<li>Java <i>(2018)</i></li>
+							<li class="hide-on-print">CSS<i>(2019)</i>, HTML <i>(2019)</i>, Kotlin <i>(2020)</i>, SQL <i>(2019)</i>, Visual Basic <i>(2015)</i>, Shell <i>(2020)</i>, Windows Batch File <i>(2014)</i>, 易语言 <i>(2014)</i></li>
+							<li class="show-on-print"><i i18n>Others are omitted in print version.</i></li>
+						</ul>
+					</dd>
+				</dl>
+			</div>
+		</div>		
+	</body>
+</html>
