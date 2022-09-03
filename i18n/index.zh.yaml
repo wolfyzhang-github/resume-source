@@ -17,7 +17,6 @@ Aug 11, 2022 - Aug 21, 2022: 2022 年 8 月 - 2022 年 8 月
 "Yie is a Y86-64 ISA emulator that visualizes the state of machine register and memory operations during Y86-64 bytecode program execution in terms of instruction execution cycles. It is a set of toolchain that I implemented for the Y86-64 SEQ CPU design, and I completed it in about a week.": Yie 是一个 Y86-64 指令集仿真器，可以以指令执行周期为单位直观输出 Y86-64 字节码程序执行过程中机器寄存器和内存的操作状态。它是我为 Y86-64 SEQ CPU 设计而实现的一套工具链，我在一周左右的时间里完成了它。
 Study of visualization methods for instruction pipeline execution: 指令流水线执行可视化方法研究
 Sept. 2021 - Present: 2021 年 9 月至今
-Network Operator: 网络操作者
 "My co-workers and I have built a visualization system for instruction pipeline execution with a web front-end, which is very initial and does not support complex functions, and is left to be upgraded. This project is a successful project of University of Jinan student research project in 2021.": 我和合作者构建了一套以 Web 前端为载体的指令流水线执行可视化系统，该系统目前十分初始，不支持复杂功能，留待后续升级。此项目是 2021 年济南大学学生科研立项成功结题项目。
 Mask wearing recognition detection: 口罩佩戴识别检测
 Sept. 2020 - Jun. 2021: 2020 年 9 月 - 2021 年 6 月
@@ -27,13 +26,16 @@ Nov. 2021 - Aug. 2022: 2021 年 11 月 - 2022 年 8 月
 Developer: 开发者
 "OLED is used to monitor the operating status of the Raspberry Pi 4B, Python calls the system API to obtain data and adds a fan to aid in heat dissipation. the Python script exists as a Systemd Service.": 用 OLED 监视树莓派 4B 的运行状态，Python 调用系统 API 获取数据，并添加风扇了辅助散热。Python 脚本以 Systemd Service 形式存在。
 Judges online scoring: 评委在线评分
+Dec. 2020 - Jun. 2022: 2020 年 12 月 - 2022 年 6 月
 "My collaborator and I built an online scoring system for judges' scoring in school-level events. Judges scan a QR code with accountable parameters to enter the system and then score the scores, and automatically generate performance data such as contestant rankings at the end. This project has been polished over two years and four major events, and is now relatively complete.": 我和合作者共同构建了一套供校级活动中评委评分使用的在线评分系统，评委通过扫描带有账密参数的二维码进入系统后进行评分，结束后自动产生选手排名等成绩数据。此项目经历了两年四次大型活动的打磨，目前较为完善。
-Officer, Ministers, Station Manager: 干事、部长、站长
+Manager, Network Operator: 部长、运维
 "I worked with my collaborators to maintain a cloud server running several services in the Office of Academic Affairs and provided computer technical support for some of the large events in the Office of Academic Affairs, including building a material upload system and an online scoring system. Also, I had team building and project communication experience in the organization.": 我和合作者共同维护学工处的一台运行有数个服务的云服务器，并为学工处的一些大型活动提供计算机技术支持，包括构建材料上传系统和在线打分系统等。同时，在组织中我也有了团队建设和项目沟通经历。
-"As a Microsoft Learn Student Ambassador, I presented a campus event titled Exploring the AI Capabilities of Azure.": 我作为微软学生大使主讲了一场以"探索Azure的AI能力"为主题的校园活动。
+"As a Microsoft Learn Student Ambassador, I presented a campus event titled Exploring the AI Capabilities of Azure.": 我作为微软学生大使主讲了一场以 “探索 Azure 的 AI 能力” 为主题的校园活动。
 Skill: 技能
 Human language: 自然语言
 Mandarin / Chinese <i>(first language)</i>: 普通话 / 中文<i>（母语）</i>
 English <i>(2009)</i>: 英语 <i>(2009)</i>
 Programming language: 编程语言
 Others are omitted in print version.: 其他内容在打印版中省略。
+Writing in Chinese: 中文写作
+"During my high school years, I practiced writing 500 words a day for three years, and now I have developed the habit of recording my life in writing.": 高中时期坚持三年每天练笔 500 字，养成了现在以文字记录生活的习惯。
